@@ -292,3 +292,9 @@ The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch
 
 
 <img width="1898" height="1017" alt="Screenshot 2026-04-03 202009" src="https://github.com/user-attachments/assets/a73a4a62-1cf1-497b-abe7-d56b38fa5e84" />
+<img width="1915" height="1029" alt="Screenshot 2026-04-03 202043" src="https://github.com/user-attachments/assets/f85a686d-ddf8-4445-aa12-f44680435a56" />
+<img width="1916" height="1027" alt="Screenshot 2026-04-03 204314" src="https://github.com/user-attachments/assets/772b6e82-d987-42ea-9d88-074c294c2f8c" />
+<img width="1901" height="1079" alt="Screenshot 2026-04-03 204437" src="https://github.com/user-attachments/assets/a70057d2-06f5-4f5b-af99-caa51c146269" />
+
+
+
