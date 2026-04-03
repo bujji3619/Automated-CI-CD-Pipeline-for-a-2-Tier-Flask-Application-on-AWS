@@ -290,3 +290,5 @@ pipeline {
 ### **8. Conclusion**
 The CI/CD pipeline is now fully operational. Any `git push` to the `main` branch of the configured GitHub repository will automatically trigger the Jenkins pipeline, which will build the new Docker image and deploy the updated application, ensuring a seamless and automated workflow from development to production.
 
+
+<img width="1898" height="1017" alt="Screenshot 2026-04-03 202009" src="https://github.com/user-attachments/assets/a73a4a62-1cf1-497b-abe7-d56b38fa5e84" />
